@@ -40,6 +40,9 @@ Erlang/OTP 独習会
 
   - Learn You Some Erlang翻訳してるOTP使いたい人
 
+- @itawasa
+
+  - Ruby の変数がアトムに見え始めています
 
 Erlang Programming
 ==================
