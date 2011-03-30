@@ -23,6 +23,7 @@ Erlang/OTP 独習会
 
 - @jbking
 - @voluntas
+- @ymotongpoo
 
 @jbking
 -------
@@ -33,6 +34,12 @@ Erlang/OTP 独習会
 ---------
 
 .. おまえ誰よをここに
+
+
+@ymotongpoo
+-----------
+
+Learn You Some Erlang翻訳してるOTP使いたい人
 
 Erlang Programming
 ==================
